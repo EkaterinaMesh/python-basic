@@ -11,7 +11,9 @@ def power_numbers():
     >>> power_numbers(1, 2, 5, 7)
     <<< [1, 4, 25, 49]
     """
-
+    n = input()
+    def power_numbers[n]
+    for i in range(n):
 
 # filter types
 ODD = "odd"
